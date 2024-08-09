@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me "Gordan#8790" discord
 - My leetCode Profile: https://leetcode.com/u/i220615/
+- My Kaggle Profile: https://www.kaggle.com/zeeshanx
 
 <!---
 Xeeshan85/Xeeshan85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
