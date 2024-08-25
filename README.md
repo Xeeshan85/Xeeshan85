@@ -1,7 +1,7 @@
 # Hi, I'm @Xeeshan85 👋
 
 - 🌟 **Interested in:** Machine Learning
-- 🌱 **Currently learning:** C++ and Python
+- 🌱 **Currently learning:** Software Technologies
 - 🤝 **Looking to collaborate on:** Artificial Intelligence
 - 📫 **Reach me on Discord:** Gordan#8790
 
