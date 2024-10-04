@@ -1,9 +1,8 @@
 # Hi, I'm @Xeeshan85 👋
 
-- 🌟 **Interested in:** Machine Learning
-- 🌱 **Currently learning:** Software Technologies
-- 🤝 **Looking to collaborate on:** Artificial Intelligence
-- 📫 **Reach me on Discord:** Gordan#8790
+- 🔭 I’m currently working: Flutter, Python, Django, ML, MySQL, AI
+- 🌱 I’m currently learning: Sass, Django, Cloud Firestore, Firebase, ML, AI, OS (LINUX)
+- Previous experience: C, C++, Assembly, C#, ASP.NET CORE, Node.js, SQLServer, PostgreSQL, CSS, HTML
 
 ---
 
