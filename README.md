@@ -1,8 +1,9 @@
 # Hi, I'm @Xeeshan85 👋
 
-- 🔭 I’m currently working on: Flutter, Python, Django, MySQL, ML, AI
-- 🌱 I’m currently learning: Django, Cloud Firestore, Firebase, ML, AI, OS (LINUX), Saas
-- Previous experience: C, C++, Assembly, C#, ASP.NET CORE, Node.js, SQLServer, CSS, HTML
+- 🔭 I’m currently working on: C++, Computer Networks, Parallel & Distributed Computing, DL, ML, AI
+- 🌱 I’m currently learning: Django, ML, DL, AI, NLP, OS (LINUX), Saas
+- Skills: C, C++, Python
+- Previous Experience: Assembly, ASP.NET CORE, Flutter, Firebase, Node.js, SQL, MySQL, CSS, HTML
 
 ### Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/Xeeshan85/count.svg)
