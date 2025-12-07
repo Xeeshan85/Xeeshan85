@@ -1,5 +1,5 @@
 <!-- Template:-->
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-8%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/Xeeshan85?label=Followers&style=flat-square)](https://github.com/Xeeshan85)
 
 ## About
